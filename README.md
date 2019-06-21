@@ -48,7 +48,7 @@ We would want to convert a NodeList into an array when we want to execute an arr
 
 5. What is a component?
 
-Components are a reusable 'template' in our pages that use HTML, CSS, and Javascript. 
+Components are a reusable 'template' in our pages that use HTML, CSS, and Javascript.
 
 ### Git Set up
 
